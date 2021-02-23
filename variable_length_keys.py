@@ -1,5 +1,4 @@
 # Assignment 1
-# Program written by E. Eubanks.
 
 message = 'c fwvvroh xhtvkrp rh wjh edgvcu elrkgu ylno prv pcng wjh ehcvgu elrkgu cq0 vgfwug rpfg wjh cwvdengu hlpg qxv ddrww vkg qgz elrkgu wvkqi ugyguuh gqilphgukqi dpg eu0svdpdn1ulu'
 key = 2
